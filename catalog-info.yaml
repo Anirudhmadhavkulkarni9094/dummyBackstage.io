@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dummyBackstage.io
+  annotations:
+    github.com/project-slug: Anirudhmadhavkulkarni9094/dummyBackstage.io
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
